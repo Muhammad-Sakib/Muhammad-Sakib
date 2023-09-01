@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Sakib</h1>
 <h3 align="center">A passionate flutter developer with 6 months of experience as a freelancer. Worked in different real-life projects. Excited to solve real-life problems through technology.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammad-sakib&label=Profile%20views&color=0e75b6&style=flat" alt="muhammad-sakib" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammad-sakib" alt="muhammad-sakib" /></a> </p>
-
 - 🌱 I’m currently learning **Flutter(Advanced)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Muhammad-Sakib/](https://github.com/Muhammad-Sakib/)
