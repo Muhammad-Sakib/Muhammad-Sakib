@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Muhammad Sakib</h1>
 <p align="justify"><b>A passionate, flutter developer with 1 year of experience as a freelancer. Worked in different real-life projects like Android App, backend and wordpress development. Excited to solve real-life problems through technology.</b> </p></br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/yourname)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/muhammadsakib)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen)](https://your-portfolio-website.com)
-[![Resume](https://img.shields.io/badge/Resume-Download-orange)](https://your-resume-pdf-url.com)
+[![Resume](https://img.shields.io/badge/Resume-Download-orange)](https://muhammad-sakib.tiiny.site/)
 [![](https://visitcount.itsvg.in/api?id=muhammad-sakib&label=Profile%20Views&color=12&pretty=true)](https://visitcount.itsvg.in) </br></br>
 
 - 🌱 Currently Working as **Freelance Developer**
@@ -76,26 +76,26 @@
 
 ##
 <details>
-  <summary><h3 align="left">Stars</h3></summary>
-  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-sakib&layout=compact&theme=" alt=muhammad-sakib />
-
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=muhammad-sakib&show_icons=true&locale=en&theme=" alt="muhammad-sakib" /></p>
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-sakib&theme=" alt="muhammad-sakib" /></p>
-</details>
-
-
-
-##
-<details>
-  <summary><h3 align="center">Statistics</h3></summary>
-    <div align="center">
-      <a href="https://github.com/muhammad-sakib">
-      <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=muhammad-sakib&theme=default" height="180em" />
-      <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=muhammad-sakib&theme=default" height="180em" />
-      <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=muhammad-sakib&theme=default" height="180em" />
-      <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=muhammad-sakib&theme=default" height="180em" />
-      <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhammad-sakib&theme=default" height="180em" />
-    </div>
+  <summary><h3 align="left">Github Activities</h3></summary>
+  <details>
+    <summary><h3 align="left">Stars</h3></summary>
+    <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-sakib&layout=compact&theme=" alt=muhammad-sakib />  
+    <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=muhammad-sakib&show_icons=true&locale=en&theme=" alt="muhammad-sakib" /></p>
+    <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-sakib&theme=" alt="muhammad-sakib" /></p>
+  </details>
+    
+  ##
+  <details>
+    <summary><h3 align="center">Statistics</h3></summary>
+      <div align="center">
+        <a href="https://github.com/muhammad-sakib">
+<!--         <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=muhammad-sakib&theme=default" height="180em" /> -->
+        <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=muhammad-sakib&theme=default" height="180em" />
+        <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=muhammad-sakib&theme=default" height="180em" />
+        <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=muhammad-sakib&theme=default" height="180em" />
+        <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhammad-sakib&theme=default" height="180em" />
+      </div>
+  </details>
 </details>
 <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <!-- <details>
