@@ -3,16 +3,17 @@
 
 - 🌱 I’m currently learning **Flutter(Advanced)**
 
-- 👨‍💻 All of my projects are available at [**Public Repos**](https://github.com/Muhammad-Sakib?tab=repositories))
+- 👨‍💻 All of my projects are available at [**Public Repos**](https://github.com/Muhammad-Sakib?tab=repositories)
 
 - 💬 Ask me about **Computer and Language Fundamentals(OOPs,Basic), Flutter**
 
-- 📫 How to reach <a href="mailto:muhammadsakib313@gmail.com">**Mail me**</a>
-- 📄 Know about my experiences [**Resume**](https://drive.google.com/file/d/1wYx-FCofFlyk9aB86wD5sfG6s6hj323a/view?usp=sharing)
+- 📫 How to reach me: <a href="mailto:muhammadsakib313@gmail.com">**Mail**</a>
+- 📄 Know about my experiences: [**Resume**](https://drive.google.com/file/d/1wYx-FCofFlyk9aB86wD5sfG6s6hj323a/view?usp=sharing)
 
-- ⚡ Fun fact **Bug fixes after I take a break.**
+- ⚡ Fun fact: **Bug fixes after I take a break.**<br/><br/>
 
-[![](https://visitcount.itsvg.in/api?id=muhammad-sakib&label=Profile%20Views&color=10&icon=0&pretty=true)](https://visitcount.itsvg.in)
+
+[![](https://visitcount.itsvg.in/api?id=muhammad-sakib&label=Profile%20Views&color=12&pretty=true)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/muhammadsakib.dev/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/muhammadsakib/) 
@@ -23,9 +24,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=Muhammad-Sakib&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Sakib&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Sakib&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Muhammad-Sakib&limit=5&theme=radical&combine_all_yearly_contributions=true)
