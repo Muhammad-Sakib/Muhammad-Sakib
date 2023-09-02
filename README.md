@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Sakib</h1>
 <h3 align="center">A passionate flutter developer with 6 months of experience as a freelancer. Worked in different real-life projects. Excited to solve real-life problems through technology.</h3>
-![](https://visitcount.itsvg.in/api?id=Muhammad-Sakib&icon=6&color=0)
 
 - 🌱 I’m currently learning **Flutter(Advanced)**
 
@@ -12,6 +11,8 @@
 - 📄 Know about my experiences [**Resume**](https://drive.google.com/file/d/1wYx-FCofFlyk9aB86wD5sfG6s6hj323a/view?usp=sharing)
 
 - ⚡ Fun fact **Bug fixes after I take a break.**
+
+[![](https://visitcount.itsvg.in/api?id=muhammad-sakib&label=Profile%20Views&color=10&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/muhammadsakib.dev/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/muhammadsakib/) 
