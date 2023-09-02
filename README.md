@@ -7,8 +7,7 @@
 
 - 💬 Ask me about **Computer and Language Fundamentals, Flutter**
 
-- 📫 How to reach me [**mail**](muhammadsakib313@gmail.com)
-
+- 📫 How to reach <a href="mailto:muhammadsakib313@gmail.com">[**Mail me**]</a>
 - 📄 Know about my experiences [https://drive.google.com/file/d/1wYx-FCofFlyk9aB86wD5sfG6s6hj323a/view?usp=sharing](https://drive.google.com/file/d/1wYx-FCofFlyk9aB86wD5sfG6s6hj323a/view?usp=sharing)
 
 - ⚡ Fun fact **Bug fixes after I take a break.**
