@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Sakib</h1>
 <h3 align="center">A passionate flutter developer with 6 months of experience as a freelancer. Worked in different real-life projects. Excited to solve real-life problems through technology.</h3>
----
-[![](https://visitcount.itsvg.in/api?id=Muhammad-Sakib&icon=6&color=0)](https://visitcount.itsvg.in)
+![](https://visitcount.itsvg.in/api?id=Muhammad-Sakib&icon=6&color=0)
 
 - 🌱 I’m currently learning **Flutter(Advanced)**
 
@@ -30,6 +29,4 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Muhammad-Sakib&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
----
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
