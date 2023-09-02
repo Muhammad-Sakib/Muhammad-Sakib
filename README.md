@@ -1,29 +1,36 @@
-<img src="https://media.licdn.com/dms/image/D5616AQH7TC4NIYsgtg/profile-displaybackgroundimage-shrink_350_1400/0/1682530839206?e=1698883200&v=beta&t=2N0BKB4SKbE8Tu9YxK9cMEAYBLcGhq9pmwpv7jrfke8" width="100%" />
+<!--<img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="100%" />-->
 <h1 align="center">Hi 👋, I'm Muhammad Sakib</h1>
-<h3 align="center">A passionate flutter developer with 1 year of experience as a freelancer. Worked in different real-life projects like Android App, backend and wordpress development. Excited to solve real-life problems through technology.</h3>
+<p align="justify"><b>A passionate, flutter developer with 1 year of experience as a freelancer. Worked in different real-life projects like Android App, backend and wordpress development. Excited to solve real-life problems through technology.</b> </p></br>
 
-[![](https://visitcount.itsvg.in/api?id=muhammad-sakib&label=Profile%20Views&color=12&pretty=true)](https://visitcount.itsvg.in)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/yourname)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen)](https://your-portfolio-website.com)
+[![Resume](https://img.shields.io/badge/Resume-Download-orange)](https://your-resume-pdf-url.com)
+[![](https://visitcount.itsvg.in/api?id=muhammad-sakib&label=Profile%20Views&color=12&pretty=true)](https://visitcount.itsvg.in) </br></br>
 
-
-- 🌱 I’m Working as **Freelance Developer**
+- 🌱 Currently Working as **Freelance Developer**
 
 - 🔍 Looking for a **Full-Time Job as a Flutter Developer**
   
+- 🎓  Completed Bachelor's degree in CSE from [**Green University of Bangladesh**](https://green.edu.bd/)
+  
 - 👨‍💻 All of my projects are available at [**Public Repos**](https://github.com/Muhammad-Sakib?tab=repositories)
 
+- 📫 How to reach me: <a href="mailto:muhammadsakib313@gmail.com">**Mail**</a>
+
+- 📄 Know about my experiences: [**Resume**](https://muhammad-sakib.tiiny.site/)
+  
 - 💬 Ask me about **Computer and Language Fundamentals(OOPs,Basic), Android, Flutter**
 
-- 📫 How to reach me: <a href="mailto:muhammadsakib313@gmail.com">**Mail**</a>
-- 📄 Know about my experiences: [**Resume**](https://muhammad-sakib.tiiny.site/)
+- ⚡ Fun fact: **Bug fixes after I take a break.**<br/><br/>
 
-- ⚡ Fun fact: **Bug fixes when I take a break.**<br/><br/>
-
-
+##
 <details>
   <summary></div><h3 align="left">Social</h3></summary>
   <p align="left">
 <a href="https://twitter.com/muhammadsakib" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/twitter.svg" alt="muhammadsakib" height="30" width="40" /></a><a href="https://linkedin.com/in/muhammadsakib" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="muhammadsakib" height="30" width="40" /></a><a href="https://fb.com/muhammadsakib.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/facebook.svg" alt="muhammadsakib.dev" height="30" width="40" /></a><a href="https://www.youtube.com/c/learnwithsakib" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/youtube.svg" alt="learnwithsakib" height="30" width="40" /></a><a href="https://stackoverflow.com/users/muhammadsakib" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/stack-overflow.svg" alt="muhammadsakib" height="30" width="40" /></a><a href="https://kaggle.com/muhammadsakib" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/kaggle.svg" alt="muhammadsakib" height="30" width="40" /></a><a href="https://instagram.com/muhammadsakib" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="muhammadsakib" height="30" width="40" /></a><a href="https://codeforces.com/profile/muhammadsakib" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/codeforces.svg" alt="muhammadsakib" height="30" width="40" /></a><a href="https://dev.to/muhammadsakib" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/devto.svg" alt="muhammadsakib" height="30" width="40" /></a></p>
 </details>
+
+##
 <details>
   <summary><h3 align="left">Languages and Tools</h3></summary>
   
@@ -67,24 +74,32 @@
 
 </details>
 
-
-<h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-sakib&layout=compact&theme=" alt=muhammad-sakib />
+##
+<details>
+  <summary><h3 align="left">Stars</h3></summary>
+  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-sakib&layout=compact&theme=" alt=muhammad-sakib />
 
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=muhammad-sakib&show_icons=true&locale=en&theme=" alt="muhammad-sakib" /></p>
-
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-sakib&theme=" alt="muhammad-sakib" /></p>
+</details>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
-<div align="center">
-<a href="https://github.com/muhammad-sakib">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=muhammad-sakib&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=muhammad-sakib&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=muhammad-sakib&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=muhammad-sakib&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhammad-sakib&theme=2077" height="180em" />
-</div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=muhammad-sakib&theme=default"/>
 
+
+##
+<details>
+  <summary><h3 align="center">Statistics</h3></summary>
+    <div align="center">
+      <a href="https://github.com/muhammad-sakib">
+      <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=muhammad-sakib&theme=default" height="180em" />
+      <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=muhammad-sakib&theme=default" height="180em" />
+      <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=muhammad-sakib&theme=default" height="180em" />
+      <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=muhammad-sakib&theme=default" height="180em" />
+      <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhammad-sakib&theme=default" height="180em" />
+    </div>
+</details>
+<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- <details>
+  <summary><h2 align="left">⚡Activity Graph</h2></summary>
+  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=muhammad-sakib&theme=default"/>
+</details>-->
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
