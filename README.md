@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Flutter(Advanced)**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Muhammad-Sakib/](https://github.com/Muhammad-Sakib/)
+- 👨‍💻 All of my projects are available at [/Muhammad-Sakib](https://github.com/Muhammad-Sakib/)
 
 - 💬 Ask me about **Computer and Language Fundamentals, Flutter**
 
