@@ -1,14 +1,16 @@
 <h1 align="center">Hi 👋, I'm Muhammad Sakib</h1>
 <h3 align="center">A passionate flutter developer with 6 months of experience as a freelancer. Worked in different real-life projects. Excited to solve real-life problems through technology.</h3>
 
+[![](https://visitcount.itsvg.in/api?id=Muhammad-Sakib&icon=6&color=0)](https://visitcount.itsvg.in)
+
 - 🌱 I’m currently learning **Flutter(Advanced)**
 
-- 👨‍💻 All of my projects are available at [/Muhammad-Sakib](https://github.com/Muhammad-Sakib/)
+- 👨‍💻 All of my projects are available at [**Public Repos**](https://github.com/Muhammad-Sakib?tab=repositories))
 
 - 💬 Ask me about **Computer and Language Fundamentals(OOPs,Basic), Flutter**
 
 - 📫 How to reach <a href="mailto:muhammadsakib313@gmail.com">**Mail me**</a>
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1wYx-FCofFlyk9aB86wD5sfG6s6hj323a/view?usp=sharing)
+- 📄 Know about my experiences [**Resume**](https://drive.google.com/file/d/1wYx-FCofFlyk9aB86wD5sfG6s6hj323a/view?usp=sharing)
 
 - ⚡ Fun fact **Bug fixes after I take a break.**
 
@@ -22,9 +24,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Sakib&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Sakib&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Muhammad-Sakib&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
@@ -32,6 +31,5 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Muhammad-Sakib&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Muhammad-Sakib&icon=6&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
