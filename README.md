@@ -5,10 +5,10 @@
 
 - 👨‍💻 All of my projects are available at [/Muhammad-Sakib](https://github.com/Muhammad-Sakib/)
 
-- 💬 Ask me about **Computer and Language Fundamentals, Flutter**
+- 💬 Ask me about **Computer and Language Fundamentals(OOPs,Basic), Flutter**
 
-- 📫 How to reach <a href="mailto:muhammadsakib313@gmail.com">[**Mail me**]</a>
-- 📄 Know about my experiences [https://drive.google.com/file/d/1wYx-FCofFlyk9aB86wD5sfG6s6hj323a/view?usp=sharing](https://drive.google.com/file/d/1wYx-FCofFlyk9aB86wD5sfG6s6hj323a/view?usp=sharing)
+- 📫 How to reach <a href="mailto:muhammadsakib313@gmail.com">**Mail me**</a>
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1wYx-FCofFlyk9aB86wD5sfG6s6hj323a/view?usp=sharing)
 
 - ⚡ Fun fact **Bug fixes after I take a break.**
 
