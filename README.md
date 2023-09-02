@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Sakib</h1>
 <h3 align="center">A passionate flutter developer with 6 months of experience as a freelancer. Worked in different real-life projects. Excited to solve real-life problems through technology.</h3>
-
+---
 [![](https://visitcount.itsvg.in/api?id=Muhammad-Sakib&icon=6&color=0)](https://visitcount.itsvg.in)
 
 - 🌱 I’m currently learning **Flutter(Advanced)**
