@@ -1,6 +1,6 @@
 <!--<img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="100%" />-->
 <h1 align="center">Hi 👋, I'm Muhammad Sakib</h1>
-<p align="justify"><b>A passionate, flutter developer with 1 year of experience as a freelancer. Worked in different real-life projects like Android App, backend and wordpress development. Excited to solve real-life problems through technology.</b> </p></br>
+<p align="justify"><b>Experienced Flutter Developer with a strong passion for creating innovative mobile applications. Skilled in developing cross-platform applications using Flutter framework. Proficient in front-end development, UI/UX design, and integrating APIs. Dedicated team player with excellent problem-solving abilities and a commitment to delivering high-quality work. </b> </p></br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/muhammadsakib)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen)](https://your-portfolio-website.com)
@@ -9,7 +9,7 @@
 
 - 🌱 Currently Working as **Freelance Developer**
 
-- 🔍 Looking for a **Full-Time Job as a Flutter Developer**
+- 🔍 Seeking for a **Full-Time Job as a Flutter Developer**
   
 - 🎓  Completed Bachelor's degree in CSE from [**Green University of Bangladesh**](https://green.edu.bd/)
   
