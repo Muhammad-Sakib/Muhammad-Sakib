@@ -17,7 +17,7 @@
 
 - 📫 How to reach me: <a href="mailto:muhammadsakib313@gmail.com">**Mail**</a>
 
-- 📄 Know about my experiences: [**Resume**](https://muhammad-sakib.tiiny.site/)
+<!--- 📄 Know about my experiences: [**Resume**](https://muhammad-sakib.tiiny.site/)-->
   
 - 💬 Ask me about **Computer and Language Fundamentals(OOPs,Basic), Android, Flutter**
 
