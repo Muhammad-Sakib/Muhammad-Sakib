@@ -1,4 +1,4 @@
-<!--<img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="100%" />-->
+<img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="100%" />
 <h1 align="center">Hi 👋, I'm Muhammad Sakib</h1>
 <p align="justify"><b>Experienced Flutter Developer with a strong passion for creating innovative mobile applications. Skilled in developing cross-platform applications using Flutter framework. Proficient in front-end development, UI/UX design, and integrating APIs. Dedicated team player with excellent problem-solving abilities and a commitment to delivering high-quality work. </b> </p></br>
 
