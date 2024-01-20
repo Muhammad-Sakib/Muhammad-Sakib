@@ -4,7 +4,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/muhammadsakib)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen)](https://your-portfolio-website.com)
-[![Resume](https://img.shields.io/badge/Resume-Download-orange)](https://muhammad-sakib.tiiny.site/)
 [![](https://visitcount.itsvg.in/api?id=muhammad-sakib&label=Profile%20Views&color=12&pretty=true)](https://visitcount.itsvg.in) </br></br>
 
 - 🌱 Currently Working as **Freelance Developer**
@@ -19,9 +18,9 @@
 
 <!--- 📄 Know about my experiences: [**Resume**](https://muhammad-sakib.tiiny.site/)-->
   
-- 💬 Ask me about **Computer and Language Fundamentals(OOPs,Basic), Android, Flutter**
+- 💬 Ask me about **Computer and Language Fundamentals(OOPs,Basic), Android, Flutter, Node.js**
 
-- ⚡ Fun fact: **Bug fixes after I take a break.**<br/><br/>
+- ⚡ Fun fact: **Bug fixes when I take a break.**<br/><br/>
 
 ##
 <details>
