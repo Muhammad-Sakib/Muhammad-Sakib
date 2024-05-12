@@ -20,7 +20,7 @@
   
 - 💬 Ask me about **Computer and Language Fundamentals(OOPs,Basic), Android, Flutter, Node.js**
 
-- ⚡ Fun fact: **Bug fixes when I take a break.**<br/><br/>
+- ⚡ Fun fact: **Taking a break take me close to the solution.**<br/><br/>
 
 ##
 <details>
